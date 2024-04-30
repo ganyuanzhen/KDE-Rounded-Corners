@@ -5,7 +5,7 @@ project(kwin4_effect_shapecorners VERSION 0.6.2 LANGUAGES CXX)
 include(cmake/default-vars.cmake)
 include(cmake/qtversion.cmake)
 include(FeatureSummary)
-include(KDEInstallDirs)
+include(KDEInstallDirs5)
 include(KDECMakeSettings)
 include(KDECompilerSettings NO_POLICY_SCOPE)
 
